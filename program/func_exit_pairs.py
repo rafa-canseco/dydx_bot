@@ -4,7 +4,7 @@ from func_public import get_candles_recent
 from func_cointegration import calculate_zscore
 from func_private import place_market_order
 import json
-import time
+import time 
 
 from pprint import pprint
 
